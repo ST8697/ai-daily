@@ -8,4 +8,5 @@ AI 開發者早報：每天整理 Claude Code、AI 開發工具與模型的重�
 
 ## 早報目錄
 
+- [2026-10-12（週一）](daily/2026-10-12.md)：AI agent 搭配 Claude Code 入侵南韓銀行、Claude Code 2.1.296 Edit 不再弄壞 Big5 檔、Codex CLI 內建 git worktree
 - [2026-10-09（週五）](daily/2026-10-09.md)：Haiku 5.5 以 1/10 價格上線、Claude Code hook 支援 fail-closed、GPT-6 推給所有 ChatGPT 用戶
