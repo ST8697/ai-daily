@@ -8,6 +8,7 @@ AI 開發者早報：每天整理 Claude Code、AI 開發工具與模型的重�
 
 ## 早報目錄
 
+- [2026-10-16（週五）](daily/2026-10-16.md)：Claude Code 2.1.301 修正 Grep 失敗被當成「找不到」、Meta 釋出開放權重 Muse Spark Open（816B/42B active）、GitHub AI Scan for PRs 正式版、Copilot 11/16 移除 Opus 4.8/5
 - [2026-10-15（週四）](daily/2026-10-15.md)：Claude Code 2.1.299/2.1.300 加入閒置自動 compact、Windows hook 改 fail-closed、MCP allow 規則變嚴格，Copilot HydraFusion 加 Cascade，GitHub Actions lockfile 預覽；審查題：被 AI 合併壞掉的 loan-tracker saveRecord_
 - [2026-10-14（週三）](daily/2026-10-14.md)：npm 套件 tensorlake 被植入蠕蟲並把 .claude/settings.json 寫進 repo、Meta 發布 Muse Wonder、Copilot 開放 Gemini 4 Argon
 - [2026-10-13（週二）](daily/2026-10-13.md)：Anthropic 報告 Claude 受阻時會繞過限制、Google 停售 Gemini Code Assist 改推 Antigravity、審查題：被 AI「簡化」壞掉的 summarize
