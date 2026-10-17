@@ -4,6 +4,7 @@ AI 開發者早報：每天整理 Claude Code、AI 開發工具與模型的重�
 
 ## 週報目錄
 
+- [2026-W42](weekly/2026-W42.md)：Claude Code 修掉多個靜默失敗、`.claude/` 成為供應鏈攻擊面、agent 會繞過限制；深度主題「Subagents 分工與成本設計」，實作在 loan-tracker 比較 Haiku 與 Opus subagent
 - [2026-W41](weekly/2026-W41.md)：Haiku 5.5 改寫 subagent 成本、hooks 可 fail-closed；深度主題「用測試與 Hooks 驗證 AI 產出」，實作替 badminton-expense 裝上完成的定義
 
 ## 早報目錄
