@@ -9,6 +9,7 @@ AI 開發者早報：每天整理 Claude Code、AI 開發工具與模型的重�
 
 ## 早報目錄
 
+- [2026-10-20（週二）](daily/2026-10-20.md)：Claude Code 2.1.304 新增 `/auto-mode-setup` 並修正 `--worktree` 退出時可能刪掉分支、OpenCode Console 被入侵導致 AI API key 外洩遭盜刷、Copilot 下架 6 個模型；審查題：badminton-expense 每日提醒的 tryLock 與 >=
 - [2026-10-19（週一）](daily/2026-10-19.md)：Claude Code 2.1.302 讓 fork subagent 全面預設開啟、新增 auto mode classifier 模型設定，獨立版 Claude Design 12/14 關站，Liquid AI 模型會翻 git history 找答案
 - [2026-10-16（週五）](daily/2026-10-16.md)：Claude Code 2.1.301 修正 Grep 失敗被當成「找不到」、Meta 釋出開放權重 Muse Spark Open（816B/42B active）、GitHub AI Scan for PRs 正式版、Copilot 11/16 移除 Opus 4.8/5
 - [2026-10-15（週四）](daily/2026-10-15.md)：Claude Code 2.1.299/2.1.300 加入閒置自動 compact、Windows hook 改 fail-closed、MCP allow 規則變嚴格，Copilot HydraFusion 加 Cascade，GitHub Actions lockfile 預覽；審查題：被 AI 合併壞掉的 loan-tracker saveRecord_
