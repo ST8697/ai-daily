@@ -1,5 +1,7 @@
 # 例行工作備份：AI 開發者早報（平日）
 
+> ⏸️ **已於 2026-10-23 暫停**：改為每週一次的「AI 開發者週報」（見 [weekly.md](weekly.md)）。例行工作仍保留，只是關閉開關，要恢復時到 claude.ai/code/routines 打開即可。最後一份早報為 `daily/2026-10-23.md`。
+
 > 這是例行工作指示的**備份**，修改這個檔案不會改變實際執行的例行工作。要改設定請到 claude.ai/code/routines，或請 Claude 用 RemoteTrigger 更新後再同步這份備份。
 > LINE token 與 user ID 存在雲端環境變數，**不在此檔案中**。
 
