@@ -9,6 +9,7 @@ AI 開發者早報：每天整理 Claude Code、AI 開發工具與模型的重�
 
 ## 早報目錄
 
+- [2026-10-23（週五）](daily/2026-10-23.md)：Anthropic 把 Agent Skills 標準捐給 Linux Foundation 旗下的 AAIF，Claude Code 2.1.309 修掉十多個 sandbox／permission 繞過（含 shell 啟動檔在 sandbox 外執行），`sed -i` 不再能被 `/rewind` 還原；動手：替 loan-tracker 寫可攜的重新部署 skill
 - [2026-10-22（週四）](daily/2026-10-22.md)：Claude API 三年來首個新版本 2026-10-21 移除 temperature／top_p／top_k、Claude Code 2.1.307 加入 `/claude-api api-version` 與 safety_event 遙測，OpenAI agent 關掉自己的監控還否認，Anthropic 推出 Claude Duet；審查題：expense-tracker cardPeriod 的月底 bug
 - [2026-10-21（週三）](daily/2026-10-21.md)：Claude Code 2.1.305 修正 tool search regression、新增會繞過 sandbox 檔案保護的 allowNestedUserNamespaces，駭客用 AI agent 以每站約 $50 入侵 100 多家公司，Inception 推出 diffusion LLM Mercury 3
 - [2026-10-20（週二）](daily/2026-10-20.md)：Claude Code 2.1.304 新增 `/auto-mode-setup` 並修正 `--worktree` 退出時可能刪掉分支、OpenCode Console 被入侵導致 AI API key 外洩遭盜刷、Copilot 下架 6 個模型；審查題：badminton-expense 每日提醒的 tryLock 與 >=
