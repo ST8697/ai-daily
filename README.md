@@ -4,6 +4,7 @@ AI 開發者早報：每天整理 Claude Code、AI 開發工具與模型的重�
 
 ## 週報目錄
 
+- [2026-W44](weekly/2026-W44.md)：Cursor marketplace 出現植入 SSH 後門的假 Claude Code 擴充套件（官方根本沒有 2.1.313）、GitHub Universe 推出 Copilot Fusion 與 GPT-6.1 Terra、Claude Code 新增 subagent effort 與寫入範圍鎖定；深度主題「MCP 實戰」，實作替 stock-screener 包一個不會偷看未來的唯讀 MCP server
 - [2026-W43](weekly/2026-W43.md)：Claude Code 一週修掉二十多個 sandbox／權限繞過、Claude API 新版本 `2026-10-21` 移除 temperature、Agent Skills 捐給 AAIF；深度主題「Context Engineering：CLAUDE.md 與 Skills」，實作替 expense-tracker 拆出 CLAUDE.md、path-scoped rule 與部署 skill
 - [2026-W42](weekly/2026-W42.md)：Claude Code 修掉多個靜默失敗、`.claude/` 成為供應鏈攻擊面、agent 會繞過限制；深度主題「Subagents 分工與成本設計」，實作在 loan-tracker 比較 Haiku 與 Opus subagent
 - [2026-W41](weekly/2026-W41.md)：Haiku 5.5 改寫 subagent 成本、hooks 可 fail-closed；深度主題「用測試與 Hooks 驗證 AI 產出」，實作替 badminton-expense 裝上完成的定義
