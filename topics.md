@@ -9,3 +9,4 @@
 - Context Engineering：CLAUDE.md 與 Skills，讓 Claude 每次都懂我的專案（2026-W43，[週報](weekly/2026-W43.md)）
 - MCP 實戰：接上外部工具（股票資料、LINE、Notion 等）（2026-W44，[週報](weekly/2026-W44.md)）
 - Claude Code 權限設計：allow／ask／deny、設定分層，以及「不要再問」的代價（2026-W45，[週報](weekly/2026-W45.md)）
+- Code Mode 與 programmatic tool calling：讓 Claude 寫程式呼叫工具（2026-W46，[週報](weekly/2026-W46.md)）

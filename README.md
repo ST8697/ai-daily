@@ -4,6 +4,7 @@ AI 開發者早報：每天整理 Claude Code、AI 開發工具與模型的重�
 
 ## 週報目錄
 
+- [2026-W46](weekly/2026-W46.md)：Claude Fable 5.2／Mythos 5.2 上線（便宜 20%、快 30%）、Claude Code 推出實驗性 Code Mode，「不要再問」不再存疑似秘密、sandbox Bash 不再自動放行，Anthropic IPO 開始路演；深度主題「Code Mode 與 programmatic tool calling」，實作用 Code Mode 替 price-tracker 做 spec 對照稽核並驗證 AI 結論
 - [2026-W45](weekly/2026-W45.md)：Apiiro 發現「don't ask again」把秘密寫進 `settings.local.json`、上千份被推到公開 GitHub，Meta 買 Conductor、OpenAI 買 Pierre，Claude Code 新增 `denyInsteadOfPrompting` 並修掉多個 Bash 權限繞過；深度主題「Claude Code 權限設計」，實作替 badminton-expense 做權限健檢並裝上擋 token 的 hook
 - [2026-W44](weekly/2026-W44.md)：Cursor marketplace 出現植入 SSH 後門的假 Claude Code 擴充套件（官方根本沒有 2.1.313）、GitHub Universe 推出 Copilot Fusion 與 GPT-6.1 Terra、Claude Code 新增 subagent effort 與寫入範圍鎖定；深度主題「MCP 實戰」，實作替 stock-screener 包一個不會偷看未來的唯讀 MCP server
 - [2026-W43](weekly/2026-W43.md)：Claude Code 一週修掉二十多個 sandbox／權限繞過、Claude API 新版本 `2026-10-21` 移除 temperature、Agent Skills 捐給 AAIF；深度主題「Context Engineering：CLAUDE.md 與 Skills」，實作替 expense-tracker 拆出 CLAUDE.md、path-scoped rule 與部署 skill
